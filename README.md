@@ -10,6 +10,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 Introducing **SkyCast Pro** - your daily companion for all things weather. Built with precision and passion, this React-based application provides accurate weather forecasts and intuitive visuals, ensuring you're always prepared, come rain or shine.
+![skycast](https://github.com/akstarre/sky-cast/assets/121568866/6c686d9e-76f2-4699-9802-0db007f1647a)
 
 ## 🌟 Features
 
